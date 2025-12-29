@@ -16,7 +16,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science undergraduate  
-- 💡 Strong interest in **Data Structures & Algorithms, Web Development, and Open Source**
+- 💡 Strong interest in **Data Structures & Algorithms and building responsive, scalable web applications**
 - 🚀 Passionate about building scalable and user-friendly applications
 - 🧠 Believe in **consistency, clean code, and continuous learning**
 - 📫 Email: **khushitiwari69120@gmail.com**
