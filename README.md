@@ -21,7 +21,6 @@
   <a href="mailto:khushitiwari69120@gmail.com">
     <img src="https://img.shields.io/badge/Email-khushitiwari69120%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TheKT-Github&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
