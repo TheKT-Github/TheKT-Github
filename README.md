@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚡ Khushi Tiwari
+<h1 align="center">
+  💻 <a href="https://github.com/TheKT-Github" style="color: #0EA5E9; text-decoration: none;"><strong>Khushi Tiwari</strong></a>
+</h1>
 
 ### Computer Science Graduate | Full Stack & Java Developer | AI-Driven Application Development
 
@@ -32,11 +34,11 @@
 > Computer Science graduate from GLA University, passionate about building impactful software solutions through thoughtful engineering, continuous learning and practical innovation.
 
 <p align="center">
-  <code>🏗️ Software Engineering</code> &nbsp;|&nbsp;
-  <code>🔄 End-to-End Development</code> &nbsp;|&nbsp;
-  <code>🤖 AI-Driven Innovation</code> &nbsp;|&nbsp;
-  <code>🤝 Team Collaboration</code> &nbsp;|&nbsp;
-  <code>🎯 Continuous Learning</code>
+  <code>🏗️ Software Engineering</code> &nbsp;&bull;&nbsp;
+  <code>🔄 Full-Stack Development</code> &nbsp;&bull;&nbsp;
+  <code>🤖 AI-Driven Solutions</code><br />
+  <code>🤝 Cross-Functional Collaboration</code> &nbsp;&bull;&nbsp;
+  <code>🎯 Continuous Learning & Growth</code>
 </p>
 
 ---
@@ -46,7 +48,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/18265306?s=200&v=4" width="18" height="18" valign="middle" alt="Intellect Design Arena Logo" /> &nbsp;<strong>Associate Consultant</strong> &nbsp;&bull;&nbsp; <em>Intellect Design Arena Ltd.</em><br />
+      <img src="assets/intellect-logo.png" height="36" valign="middle" alt="Intellect Design Arena Logo" /> &nbsp;<strong>Associate Consultant</strong> &nbsp;&bull;&nbsp; <em>Intellect Design Arena Ltd.</em><br />
       <sub><code>June 2026 – August 2026</code> &bull; 📍 <code>Chennai, India</code></sub>
       <ul>
         <li>Developed enterprise application components using <strong>Java, Spring Boot and Angular</strong>.</li>
@@ -58,7 +60,7 @@
   </tr>
   <tr>
     <td>
-      💼 &nbsp;<strong>Web Development Intern</strong> &nbsp;&bull;&nbsp; <em>Embrizon Technologies</em><br />
+      <img src="assets/embrizon-logo.png" height="36" valign="middle" alt="Embrizon Technologies Logo" /> &nbsp;<strong>Web Development Intern</strong> &nbsp;&bull;&nbsp; <em>Embrizon Technologies</em><br />
       <sub><code>May 2024 – July 2024</code> &bull; 📍 <code>Remote</code></sub>
       <ul>
         <li>Developed responsive web interfaces using <strong>React.js, JavaScript, HTML and CSS</strong>.</li>
