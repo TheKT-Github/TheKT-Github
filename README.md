@@ -1,11 +1,11 @@
 <div align="center">
 
-# Khushi Tiwari
+# ⚡ Khushi Tiwari
 
 ### Computer Science Graduate | Full Stack & Java Developer | AI-Driven Application Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Java+Developer;Computer+Science+Graduate;AI-Driven+Application+Development;Problem+Solver+%7C+150%2B+LeetCode+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=0EA5E9&center=true&vCenter=true&width=520&height=35&lines=Full+Stack+%26+Java+Developer;Computer+Science+Graduate;AI-Driven+Application+Development;Problem+Solver+%7C+150%2B+LeetCode+DSA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,62 +29,44 @@
 
 ## 🧭 About Me
 
-I am a **Computer Science Graduate** from **GLA University, Mathura** (Graduated June 2026), focused on building reliable, scalable enterprise applications, responsive web platforms, and intelligent AI-driven software systems.
+> Computer Science graduate from GLA University, passionate about building impactful software solutions through thoughtful engineering, continuous learning and practical innovation.
 
-- 💻 **Backend & Architecture:** Proficient in **Java 17, Spring Boot, Spring Security, Hibernate ORM, and REST APIs**, adhering to strict Object-Oriented Design (OOP) principles and role-based access control (RBAC).
-- 🎨 **Modern Frontend:** Hands-on experience developing single-page, reactive client interfaces using **Angular 16 (Signals & Standalone Components)** and **React.js**.
-- 🤖 **Applied AI & Automation:** Industry experience configuring workflow automation on **iTurmeric** and designing GenAI agents using **Purple Fabric** (agentic AI, multi-agent workflows, and AI governance), alongside building **Retrieval-Augmented Generation (RAG)** engines with Google Gemini.
-- 🎯 **Engineering Discipline:** Deep commitment to test-driven reliability (**JUnit 5, Mockito, automated regression testing**), clean code practices, and algorithmic problem-solving (**150+ LeetCode problems solved**).
+<p align="center">
+  <code>🏗️ Software Engineering</code> &nbsp;|&nbsp;
+  <code>🔄 End-to-End Development</code> &nbsp;|&nbsp;
+  <code>🤖 AI-Driven Innovation</code> &nbsp;|&nbsp;
+  <code>🤝 Team Collaboration</code> &nbsp;|&nbsp;
+  <code>🎯 Continuous Learning</code>
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
 <table>
-  <thead>
-    <tr>
-      <th width="35%">Role & Organization</th>
-      <th width="20%">Duration & Location</th>
-      <th width="45%">Key Contributions & Technical Exposure</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Associate Consultant</strong><br />
-        <em>Intellect Design Arena Ltd.</em>
-      </td>
-      <td>
-        June 2026 – August 2026<br />
-        <code>Chennai, India</code>
-      </td>
-      <td>
-        <ul>
-          <li>Developed robust enterprise application components using <strong>Java, Spring Boot, and Angular</strong>, upholding design patterns and coding standards.</li>
-          <li>Configured business workflows on <strong>iTurmeric</strong> to support SDLC activities and enterprise workflow automation.</li>
-          <li>Designed and deployed GenAI agents using <strong>Purple Fabric</strong>, gaining hands-on exposure to agentic AI, multi-agent orchestration, and enterprise AI governance.</li>
-          <li>Collaborated closely with enterprise architecture and QA teams to ensure system compliance and quality assurance.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Web Development Intern</strong><br />
-        <em>Embrizon Technologies</em>
-      </td>
-      <td>
-        May 2024 – July 2024<br />
-        <code>Remote</code>
-      </td>
-      <td>
-        <ul>
-          <li>Built dynamic, responsive web interfaces using <strong>React.js, JavaScript (ES6+), HTML5, and CSS3</strong>.</li>
-          <li>Implemented interactive UI components, state management, and asynchronous event handling.</li>
-          <li>Applied systematic debugging, code modularity, and reusable component practices to optimize maintainability.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/18265306?s=200&v=4" width="18" height="18" valign="middle" alt="Intellect Design Arena Logo" /> &nbsp;<strong>Associate Consultant</strong> &nbsp;&bull;&nbsp; <em>Intellect Design Arena Ltd.</em><br />
+      <sub><code>June 2026 – August 2026</code> &bull; 📍 <code>Chennai, India</code></sub>
+      <ul>
+        <li>Developed enterprise application components using <strong>Java, Spring Boot and Angular</strong>.</li>
+        <li>Configured business workflows using <strong>iTurmeric</strong>.</li>
+        <li>Worked on GenAI agents using <strong>Purple Fabric</strong>, exploring agentic AI and multi-agent workflows.</li>
+        <li>Collaborated with architecture and QA teams.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      💼 &nbsp;<strong>Web Development Intern</strong> &nbsp;&bull;&nbsp; <em>Embrizon Technologies</em><br />
+      <sub><code>May 2024 – July 2024</code> &bull; 📍 <code>Remote</code></sub>
+      <ul>
+        <li>Developed responsive web interfaces using <strong>React.js, JavaScript, HTML and CSS</strong>.</li>
+        <li>Built reusable UI components and implemented state management.</li>
+        <li>Performed debugging and improved code maintainability.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -99,9 +81,9 @@ I am a **Computer Science Graduate** from **GLA University, Mathura** (Graduated
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular_16-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-C5D5CB?style=flat-square" />
 </p>
 
