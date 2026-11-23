@@ -1,13 +1,13 @@
 <div align="center">
 
 <h1 align="center">
-  💻 <a href="https://github.com/TheKT-Github" style="color: #0EA5E9; text-decoration: none;"><strong>Khushi Tiwari</strong></a>
+  💻 <strong style="color: #ffffff; text-decoration: none;">Khushi Tiwari</strong>
 </h1>
 
 ### Computer Science Graduate | Full Stack & Java Developer | AI-Driven Application Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=0EA5E9&center=true&vCenter=true&width=520&height=35&lines=Full+Stack+%26+Java+Developer;Computer+Science+Graduate;AI-Driven+Application+Development;Problem+Solver+%7C+150%2B+LeetCode+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1400&color=0EA5E9&center=true&vCenter=true&width=520&height=35&lines=Full+Stack+%26+Java+Developer;Computer+Science+Graduate" alt="Typing SVG" />
 </p>
 
 <p align="center">
